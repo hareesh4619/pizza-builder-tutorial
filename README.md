@@ -14,5 +14,7 @@ You will also see any lint errors in the console.
 
 Documentation:
 components/chatbot/CustomChatbot.js is main chatbot js file
+
 components/chatbot/Review.js is to declare effcts and state of the chat
+
 in pizza.js file # 63 <CustomChatbot /> should be added to see the chatbot with application
